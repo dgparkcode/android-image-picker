@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Image picker"
+rootProject.name = "Todo"
 include ':app'
-include ':image-picker'
+include ':compose'
